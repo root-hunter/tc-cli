@@ -2,6 +2,11 @@
 name = "tc-cli"
 version = "0.1.0"
 edition = "2021"
+license-file = "LICENSE"
+authors = ["Antonio Ricciardi <dev.roothunter@gmail.com>"]
 
 [dependencies]
 tc = { git = "https://github.com/root-hunter/tc.git" }
+log = { version = "0.4" }
+env_logger = { version = "0.11" }
+clap = { version = "4.5" }
