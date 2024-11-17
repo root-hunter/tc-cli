@@ -242,7 +242,7 @@ dependencies = [
 [[package]]
 name = "tc"
 version = "0.2.0"
-source = "git+https://github.com/root-hunter/tc.git#cf89ffb9b7722df115aa2a38081a6ee7af2b3748"
+source = "git+https://github.com/root-hunter/tc.git#7b766ef1afed70966c0669e0a8e2b85d2e2d9b96"
 dependencies = [
  "bincode",
  "rustc-hash",
