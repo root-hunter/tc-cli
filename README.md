@@ -1,0 +1,1 @@
+# tc-cli - Text Compressor CLI
